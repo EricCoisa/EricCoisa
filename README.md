@@ -1,7 +1,6 @@
-<h1 align="center">Olá sou o Éric ou... Coisa</h1>
-<h3 align="center">Full Stack por diversão</h3>
+<h1 align="left">Olá sou o Éric ou... <b>Coisa</b></h1>
+<h3 align="left">Full Stack por diversão</h3>
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/ericcoisa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ericcoisa" height="30" width="40" /></a>
 </p>
