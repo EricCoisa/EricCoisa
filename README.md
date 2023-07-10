@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 Desenvolvendo tecnologias para Educação<br>🎯 Eu posso e vou melhorar</p>
+<p align="left">📚 Desenvolvendo tecnologias para Educação<br>🎯 Dobrar a meta</p>
 
 ###
 
