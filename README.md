@@ -47,4 +47,6 @@
 ###
 
 <h4 align="center">Coitada da cobra... vai morrer de fome!</h4>
+
+###
 ![Snake animation](https://github.com/EricCoisa/EricCoisa/blob/output/github-contribution-grid-snake.svg)
