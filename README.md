@@ -1,19 +1,5 @@
 <h1 align="left">Opaa 👋 Tudo Bão?</h1>
 
-###
-
-<p align="left">Sou o Éric... mas pode me chamar de Coisa</p>
-
-###
-
-<h2 align="left">Sobre</h2>
-
-###
-
-<p align="left">📚 Desenvolvendo tecnologias para Educação</p>
-
-###
-
 <h2 align="left">Eu sei essas parada aqui:</h2>
 
 ###
