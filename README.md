@@ -55,9 +55,7 @@ Desenvolvedor full-stack especializado em front-end com React, mobile com React 
 
 ---
 
-<br clear="both">
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-<img src="https://raw.githubusercontent.com/ericcoisa/ericcoisa/output/snake.svg" alt="Snake animation" />
+![snake gif](https://github.com/ericccoisa/ericccoisa/blob/output/github-snake-dark.svg)
 
 ---
 
