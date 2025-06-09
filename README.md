@@ -54,3 +54,11 @@ Atuo em aplicações web e mobile escaláveis, com foco em performance, qualidad
 ---
 
 > “Prática constante e aprendizado são a base para transformar boas ideias em produtos excepcionais.” ✨
+
+---
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ericcoisa/ericcoisa/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ericcoisa/ericcoisa/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ericcoisa/ericcoisa/output/github-contribution-grid-snake.svg">
+</picture>
