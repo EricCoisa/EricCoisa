@@ -6,12 +6,11 @@ Atuo em aplicações web e mobile escaláveis, com foco em performance, qualidad
 ---
 
 <div align="center">
+  <img  height="160" src="https://avatars.githubusercontent.com/u/133617019?v=4" alt="Coding gif"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ericcoisa&layout=compact&langs_count=8&theme=dracula&hide_border=false" height="160"/>
 </div>
 
 ---
-
-<img align="right" height="180" src="https://avatars.githubusercontent.com/u/133617019?v=4" alt="Coding gif"/>
 
 ### 🧠 Principais Conhecimentos
 
@@ -19,7 +18,7 @@ Atuo em aplicações web e mobile escaláveis, com foco em performance, qualidad
 - 📲 **React Native** – FCM, Notifee, Deep Linking
 - 📦 **Redux**, **Context API**, **Storybook**, **Plop.js**
 - 🎨 **TailwindCSS**, **Styled Components**
-- 🧱 **Monorepos com Lerna** – Estrutura modular com pacotes compartilhados
+- 🧱 **Monorepos** – Estrutura modular com pacotes compartilhados
 - 🧠 **C#**, **ASP.NET**, **Entity Framework**, **Dapper**
 - 🧮 **SQL Server**
 - ☁️ **CI/CD com GitHub Actions**, **Azure Web Apps & Containers**
@@ -55,4 +54,4 @@ Atuo em aplicações web e mobile escaláveis, com foco em performance, qualidad
 
 ---
 
-> “Código limpo e arquitetura sólida transformam boas ideias em produtos excepcionais.” ✨
+> “Prática constante e aprendizado são a base para transformar boas ideias em produtos excepcionais.” ✨
