@@ -6,7 +6,6 @@ Atuo em aplicações web e mobile escaláveis, com foco em performance, qualidad
 ---
 
 <div align="center">
-  <img  height="160" src="https://avatars.githubusercontent.com/u/133617019?v=4" alt="Coding gif"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ericcoisa&layout=compact&langs_count=8&theme=dracula&hide_border=false" height="160"/>
 </div>
 
