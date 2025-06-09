@@ -54,3 +54,11 @@ Atuo em aplicações web e mobile escaláveis, com foco em performance, qualidad
 ---
 
 > “Prática constante e aprendizado são a base para transformar boas ideias em produtos excepcionais.” ✨
+
+---
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
