@@ -54,12 +54,4 @@ Desenvolvedor full-stack especializado em front-end com React, mobile com React 
 
 ---
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ericcoisa/ericcoisa/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ericcoisa/ericcoisa/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ericcoisa/ericcoisa/output/github-contribution-grid-snake.svg">
-</picture>
-
----
-
 > “Código limpo e arquitetura sólida transformam boas ideias em produtos excepcionais.” ✨
