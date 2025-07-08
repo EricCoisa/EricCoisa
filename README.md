@@ -1,5 +1,6 @@
 <h2 align="left">👋 Olá! Sou o Éric</h2>
-
+<i align="left">Meu portfólio está em construção, mas você pode conferir meu GitHub:</i>
+<p></p>
 Desenvolvedor Full-Stack com experiência em React, React Native, TypeScript, C# e ASP.NET Core. Especialista em monorepos, desenvolvimento orientado a componentes e APIs RESTful.
 Atuo em aplicações web e mobile escaláveis, com foco em performance, qualidade de código e integração com serviços como Firebase e Notifee. Também desenvolvo soluções imersivas com Unity para realidade virtual e aumentada.
 
