@@ -17,7 +17,7 @@ Atuo em aplicações web e mobile escaláveis, com foco em performance, qualidad
 - 🔷 **React**, **TypeScript**, **JavaScript**
 - 📲 **React Native** – FCM, Notifee, Deep Linking
 - 📦 **Redux**, **Context API**, **Storybook**, **Plop.js**
-- 🎨 **TailwindCSS**, **Styled Components**
+- 🎨 **Bootstrap**, **Styled Components**
 - 🧱 **Monorepos** – Estrutura modular com pacotes compartilhados
 - 🧠 **C#**, **ASP.NET**, **Entity Framework**, **Dapper**
 - 🧮 **SQL Server**
