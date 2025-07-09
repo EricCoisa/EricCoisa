@@ -12,7 +12,7 @@ Atuo em aplicações web e mobile escaláveis, com foco em performance, qualidad
 
 ---
 
-### 🧠 Principais Conhecimentos
+### 🧠 Habilidades Principais
 
 - 🔷 **React**, **TypeScript**, **JavaScript**
 - 📲 **React Native** – FCM, Notifee, Deep Linking
@@ -41,7 +41,7 @@ Atuo em aplicações web e mobile escaláveis, com foco em performance, qualidad
 
 ---
 
-### 🌐 Conecte-se comigo
+### 🌐 Redes
 
 <div align="left">
   <a href="https://www.linkedin.com/in/eric-vitor/" target="_blank">
@@ -49,6 +49,9 @@ Atuo em aplicações web e mobile escaláveis, com foco em performance, qualidad
   </a>
   <a href="mailto:ericvitor96@gmail.com">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="35" />
+  </a>
+  <a href="https://discordapp.com/users/ericcoisa#1268" target="_blank" title="ericcoisa#1268">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&style=for-the-badge" height="35" />
   </a>
 </div>
 
