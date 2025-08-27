@@ -41,6 +41,14 @@ Atuo em aplicações web e mobile escaláveis, com foco em performance, qualidad
 
 ---
 
+### 🚀 Projetos em Destaque
+
+- 🔧 [**CustomDeploy**](https://github.com/EricCoisa/CustomDeploy) – Automatize deploys de projetos do GitHub direto para o IIS, com praticidade e interface moderna.
+- 🌐 [**AspNetCoreApiBase**](https://github.com/EricCoisa/AspNetCoreApiBase) – Estrutura base para APIs ASP.NET Core com boas práticas.
+- 📡 [**Coap**](https://github.com/EricCoisa/Coap) – Uma plataforma miniaturizada moderna e intuitiva para criação de materiais didáticos interativos.
+
+---
+
 ### 🌐 Redes
 
 <div align="left">
