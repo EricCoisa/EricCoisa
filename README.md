@@ -1,8 +1,9 @@
 <h2 align="left">👋 Olá! Sou o Éric</h2>
 <i align="left">Meu portfólio está em construção, mas você pode conferir meu GitHub:</i>
 <p></p>
-Desenvolvedor Full-Stack com experiência em React, React Native, TypeScript, C# e ASP.NET Core. Especialista em monorepos, desenvolvimento orientado a componentes e APIs RESTful.
-Atuo em aplicações web e mobile escaláveis, com foco em performance, qualidade de código e integração com serviços como Firebase e Notifee. Também desenvolvo soluções imersivas com Unity para realidade virtual e aumentada.
+
+Desenvolvedor **Full-Stack**, apaixonado por **React, React Native, TypeScript e ASP.NET Core**.  
+De **CNC feita com sucata** até **software financeiro**. **Full-Solutions**
 
 ---
 
@@ -14,15 +15,18 @@ Atuo em aplicações web e mobile escaláveis, com foco em performance, qualidad
 
 ### 🧠 Habilidades Principais
 
-- 🔷 **React**, **TypeScript**, **JavaScript**
-- 📲 **React Native** – FCM, Notifee, Deep Linking
-- 📦 **Redux**, **Context API**, **Storybook**, **Plop.js**
-- 🎨 **Bootstrap**, **Styled Components**
-- 🧱 **Monorepos** – Estrutura modular com pacotes compartilhados
-- 🧠 **C#**, **ASP.NET**, **Entity Framework**, **Dapper**
+- 🔷 **React**, **TypeScript**, **JavaScript**, **Vite**
+- 📲 **React Native** – Firebase Messaging, Notifee, Deep Linking
+- 📦 **Redux**, **Context API**, **Storybook**, **Plop.js** (automação de scaffolding)
+- 🧱 **Monorepo** – Estrutura modular com pacotes compartilhados
+- ⚡ **C#**, **ASP.NET Core**, **Entity Framework**, **Dapper**
 - 🧮 **SQL Server**
+- 🔄 **n8n** – Automação de fluxos de trabalho e integrações
 - ☁️ **CI/CD com GitHub Actions**, **Azure Web Apps & Containers**
-- 📌 **Scrum/Kanban**, **Jira**, **Git Flow**
+- 🎮 **Unity (VR/AR)**
+- 🔌 **Arduino**
+- 📌 **Scrum/Kanban**, **Jira**
+- 💻 **Claude** - É meu amigo!
 
 ---
 
@@ -37,15 +41,18 @@ Atuo em aplicações web e mobile escaláveis, com foco em performance, qualidad
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="30" />
+  <img src="https://seeklogo.com/images/N/n8n-logo-DAED428B6E-seeklogo.com.png" height="30" title="n8n"/>
 </div>
 
 ---
 
 ### 🚀 Projetos em Destaque
 
-- 🔧 [**CustomDeploy**](https://github.com/EricCoisa/CustomDeploy) – Automatize deploys de projetos do GitHub direto para o IIS, com praticidade e interface moderna.
-- 🌐 [**AspNetCoreApiBase**](https://github.com/EricCoisa/AspNetCoreApiBase) – Estrutura base para APIs ASP.NET Core com boas práticas.
-- 📡 [**Coap**](https://github.com/EricCoisa/Coap) – Uma plataforma miniaturizada moderna e intuitiva para criação de materiais didáticos interativos.
+- 🎯 **Gamificação para software de gestão** – Sistema de metas com notificações e recompensas (em desenvolvimento).  
+- 📦 **React Monorepo** – Estrutura modular com **Lerna**, **Storybook** e **Plop.js** (em desenvolvimento).  
+- 🔧 [**CustomDeploy**](https://github.com/EricCoisa/CustomDeploy) – Automatize deploys de projetos do GitHub direto para o IIS, com praticidade e interface moderna.  
+- 🌐 [**AspNetCoreApiBase**](https://github.com/EricCoisa/AspNetCoreApiBase) – Estrutura base para APIs ASP.NET Core com boas práticas.  
+- 📡 [**Coap**](https://github.com/EricCoisa/Coap) – Uma plataforma miniaturizada moderna e intuitiva para criação de materiais didáticos interativos.  
 
 ---
 
