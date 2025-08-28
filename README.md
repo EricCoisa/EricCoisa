@@ -48,8 +48,6 @@ De **CNC feita com sucata** até **software financeiro**. **Full-Solutions**
 
 ### 🚀 Projetos em Destaque
 
-- 🎯 **Gamificação para software de gestão** – Sistema de metas com notificações e recompensas (em desenvolvimento).  
-- 📦 **React Monorepo** – Estrutura modular com **Lerna**, **Storybook** e **Plop.js** (em desenvolvimento).  
 - 🔧 [**CustomDeploy**](https://github.com/EricCoisa/CustomDeploy) – Automatize deploys de projetos do GitHub direto para o IIS, com praticidade e interface moderna.  
 - 🌐 [**AspNetCoreApiBase**](https://github.com/EricCoisa/AspNetCoreApiBase) – Estrutura base para APIs ASP.NET Core com boas práticas.  
 - 📡 [**Coap**](https://github.com/EricCoisa/Coap) – Uma plataforma miniaturizada moderna e intuitiva para criação de materiais didáticos interativos.  
